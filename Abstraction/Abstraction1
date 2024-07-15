@@ -1,0 +1,10 @@
+Abstraction :  In java Abstraction is achieved by interfaces and abstract classes. We can achieve 100% abstraction using interfaces.
+
+Consider a real life example, A man driving a car, he only knows pressing accelerator increases speed of the car and applying brakes will reduce the
+speed of the car. But he does not know the internal mechanism of accelerator and brakes. This is what abstraction is.
+
+'abstract' keyword is used to declare abstract class and methods.
+
+Abstract method is a method declared without implementation. Its implementation is defined in sub class or child class.
+  
+

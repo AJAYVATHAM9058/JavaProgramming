@@ -1,6 +1,8 @@
 package Inheritance;
 
+//Multiple Inheritance in Java through class
 //Now it throws a Compile_Time_Error
+// So there is an ambiguity of which method will execute if both classes have same methods
 
 class A{
 	void msg() {
@@ -13,6 +15,7 @@ class B{
 		System.out.println("B class");
 	}
 }
+
 
 class C extends A,B{
 

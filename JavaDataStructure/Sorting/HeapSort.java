@@ -3,6 +3,17 @@ package JavaDataStructure.Sorting;
 import java.util.*;
 
 //Java Program to implement heap sort algorithm
+
+/* A Heap is a complete binary tree.
+ * Heap sort is a popular and efficient algorithm
+ * The concept of heap sort is to eliminate the elements one by one from heap part of the list and then insert into the sorted 
+ * of the list.
+ * 
+ * Root is present at i
+ * left child is present at 2*i
+ * 
+ * */
+
 public class HeapSort {
 
 	//building maxheap

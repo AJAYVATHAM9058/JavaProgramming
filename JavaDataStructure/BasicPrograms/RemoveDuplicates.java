@@ -1,6 +1,6 @@
 package JavaDataStructure.BasicPrograms;
 
-//Java Program to implement Removing duplicate elements from the array
+//java program to implement remove duplicates from an array 
 
 import java.util.*;
 public class RemoveDuplicates {
